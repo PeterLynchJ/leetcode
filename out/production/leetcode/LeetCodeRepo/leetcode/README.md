@@ -1,2 +1,5 @@
 # leetcode
-casual practice
+casual practice for leetcode questions
+
+
+by --PeterLynchJ
